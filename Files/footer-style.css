@@ -1,0 +1,133 @@
+.footer {
+    background-color: #403d38;
+    padding-top: 30px;
+}
+
+.footer-logo {
+    padding: 40px 0px 0px 0px;
+    text-align: center;
+    background-color: #353330;
+}
+
+.footer-logo-container {
+    /* background-color: red; */
+    width: 90%;
+    margin: auto;
+}
+
+.footer-logo-icon button {
+    background-color: 484540;
+    width: 32px;
+    height: 32px;
+    border-radius: 20px;
+    border: none;
+    margin: 5px;
+    margin-top: 15px;
+}
+
+.footer-logo-icon img {
+    margin-bottom: 40px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.footer-logo p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #777777;
+    font-size: 15px;
+    line-height: 1.86em;
+    margin-bottom: 20px;
+    opacity: 1;
+}
+
+.footer-content-container li {
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #969696;
+    font-size: 12px;
+    line-height: 1.86em;
+    margin-bottom: 20px;
+    margin-top: 7px;
+    opacity: 1;
+}
+
+.footer-content-container h4 {
+    font-family: 'Alegreya SC', serif;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.86em;
+    margin-bottom: 20px;
+    opacity: 1;
+    font-weight: 200;
+}
+
+.footer-content-container {
+    overflow: auto;
+    width: 80%;
+    margin: auto;
+    /* background-color: red; */
+}
+
+.footer-content-container p {
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #969696;
+    font-size: 14px;
+    line-height: 1.86em;
+    margin-bottom: 20px;
+    opacity: 1;
+    /* box-sizing: border-box; */
+}
+
+.about {
+    /* margin: 0px 10px; */
+    width: 25%;
+    float: left;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.special {
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.opening {
+    width: 25%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.contact {
+    /* background-image: url(../Images/map/contact-details-map.png); */
+    /* background-size: cover; */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.fb button:hover {
+    background-color: #4267B2;
+    transition-duration: 0.5s;
+}
+
+.g button:hover {
+    background-color: #DB4437;
+    transition-duration: 0.5s;
+}
+
+.tw button:hover {
+    background-color: #1DA1F2;
+    transition-duration: 0.5s;
+}
+
+.in button:hover {
+    background-color: #0072b1;
+    transition-duration: 0.5s;
+}
+
+.contact a {
+    text-decoration: none;
+}

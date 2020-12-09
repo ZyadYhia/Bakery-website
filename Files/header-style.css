@@ -1,0 +1,117 @@
+/* -----------------------------
+   --------    Header   --------
+   ----------------------------- */
+
+.header {
+    background-image: url(../Images/drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 75sn0px;
+}
+
+.main-nav {
+    /* background-color: tomato; */
+    height: 100px;
+    padding: 5px 0px;
+}
+
+.nav-container {
+    /* background-color: blue; */
+    height: 90%;
+    width: 95%;
+    margin: auto;
+}
+
+.logo {
+    /* background-color: teal; */
+    width: 40%;
+    float: left;
+    height: 55%;
+    margin-top: 15px;
+}
+
+.logo img {
+    height: 98%;
+    padding-left: 7%;
+}
+
+.nav-btn {
+    text-align: right;
+    box-sizing: border-box;
+    width: 50%;
+    /* background-color: yellowgreen; */
+    float: right;
+    height: 50%;
+    padding-right: 3%;
+    margin-top: 15px;
+}
+
+.nav-btn button {
+    color: #ffffff;
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    padding: 13px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.header-content {
+    color: white;
+    text-align: center;
+    height: 500px;
+    padding-top: 10%;
+}
+
+.header-content h1 {
+    font-family: 'Alegreya SC', serif;
+    font-size: 38px;
+    margin-bottom: 20px;
+}
+
+.header-content .title {
+    font-size: 76px;
+}
+
+.header-content .f {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 22px;
+}
+
+.header-content .s {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 24px;
+}
+
+.header-content button {
+    padding: 15px 28px;
+    height: 50px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.header-content button:hover {
+    font-weight: 700;
+    background-color: white;
+    transition-duration: 0.8s;
+    /* Green */
+    color: black;
+}
+
+.header-content p {
+    line-height: 1.86em;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.btn1 {
+    background-color: transparent;
+    border: 2px white solid;
+}
+
+.btn2 {
+    background-color: #8e7754;
+    border: none;
+}
